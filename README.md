@@ -5,7 +5,7 @@ Retrospective insights from 2020-06
 
 **Gullibility and amnesia makes the world economy go round and round!** 
 
-I have come to realize this with respect to the following investigations and views concerning human behavior and industrial supply chain economics.
+- I have come to realize this with respect to the following investigations and views concerning human behavior and industrial supply chain economics.
 
   In Nov-Dec 2019 I had forecasted an economic meltdown in North America worse than The Great Depression of 1928-1938. This was in lieu of evidence I had about: 
     - Carillion's domino effect on public sector companies of UK, Canada and US from July 2018 coupled with 
