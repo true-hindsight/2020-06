@@ -26,7 +26,14 @@ Retrospective insights from 2020-06
       - GPB, forcing value of 1 USD towards 0.75 GBP from 0.9 GBP and 
       - EUR, forcing value of 1 USD towards 1 EUR from 1.3 EUR
       
-    In doing so, the US has been signaling to the global forex markets that when it comes to contract settlements and international trade, the US considers itself on par with EU standards and that the world ought to treat the UK the way it treats Canada i.e. basically ignore it. While the Brexit trainwreck and LIBOR lending rates manipulations did delegitimise the influence of London on global markets the unwealdy ogre called UK is definitely more capable in supporting the British Pound than Canada which is a UK commonwealth colonoy can support the Canadian Dollar. The comparison of US standards with that of EU is completely untennable and not at all credible. EU standards and their implementation are still drastically better than that of US and especially Canada when it comes to quality of life, per capital income, ecological development, public infrastructure modernization, privacy and security and financial management. 
+    In doing so, the US has been signaling to the global forex markets that when it comes to contract settlements and international trade, it is on par with EU and that the world ought to treat the UK the way it treats Canada. The Brexit trainwreck and LIBOR lending rates manipulations did delegitimise the influence of London on global markets. However I would say that the unwealdy ogre called UK is definitely more capable in supporting the British Pound than Canada (a commonwealth colonoy) can support the Canadian Dollar. I would also posit that comparison of US standards with that of EU is tough but in general EU standards and their implementation are still better than that of US and especially Canada when it comes to 
+      - quality of life, 
+      - per capita income, 
+      - ecological development, 
+      - public infrastructure modernization, 
+      - handling of human rights particularly for refugees,
+      - privacy and security and 
+      - financial management. 
     
     So what's the point of signaling to the global markets that US currency and underlying norms are more worthwhile than any other ones even though the US manaically thrashed its FDA, EPA and intelligence agencies in in Q4 2017 after sounding the war bugle against Russia and China? Additionally Boing's 737 fleet had been grounded across the world for faulty software and Boing was under investigation for knowingly hiding facts about problems with its manufacturing and maintainance of 737s. 
     
@@ -38,3 +45,10 @@ Retrospective insights from 2020-06
     
     
 To be continued...
+
+TODO: 
+   - provide links to:
+     - Brexit trainwreck
+     - US war bugle against Russia and China in Q4 2017 
+       (the waste disposal, 5G and nuclear power generation debacles)  
+     - Insurance rate manipulations and defaulting on payouts to customers
