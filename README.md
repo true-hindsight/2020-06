@@ -50,8 +50,8 @@ The Canadian government did try to offshed 750 million CAD invented from pure no
   - loans with convoluted terms from chartered banks. 
   
 Now, by looking at forex data from 1930 to 2020 it can be broadly categorized that the Canadian dollar is practically pegged to the US dollar with 1 USD = 1.25 CAD (approx). But, and this is a big but, the Trump administration has been peevishly pushing for a stronger USD against: 
-  - GBB, forcing the valuation from 1 USD = 0.69 GBP (Sept 2015) to 1 USD = 0.80 GBP (Sept 2020) and 
-  - EUR, forcing the valuation from 1 USD = 0.90 EUR (Sept 2015) to 1 USD = 0.80 EUR (Sept 2020)
+  - GBP, forcing valuation from 1 USD = 0.69 GBP (Sept 2015) to 1 USD = 0.80 GBP (Sept 2020) 
+  - EUR, forcing valuation from 1 USD = 0.90 EUR (Sept 2015) to 1 USD = 0.80 EUR (Sept 2020)
       
 In doing so, the US has been signaling to the global forex markets that: 
   - when it comes to contract settlements and international trade, the US is superior to EU 
