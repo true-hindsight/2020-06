@@ -50,19 +50,26 @@ The Canadian government did try to offshed 750 million CAD invented from pure no
   - loans with convoluted terms from chartered banks. 
   
 Now, by looking at forex data from 1930 to 2020 it can be broadly categorized that the Canadian dollar is practically pegged to the US dollar with 1 USD = 1.25 CAD (approx). But, and this is a big but, the Trump administration has been peevishly pushing for a stronger USD against: 
-  - GPB, forcing a value of 1 USD towards 0.75 GBP from 0.9 GBP and 
-  - EUR, forcing a value of 1 USD towards 1 EUR from 1.3 EUR
+  - GBB, forcing the valuation from 1 USD = 0.69 GBP (Sept 2015) to 1 USD = 0.80 GBP (Sept 2020) and 
+  - EUR, forcing the valuation from 1 USD = 0.90 EUR (Sept 2015) to 1 USD = 0.80 EUR (Sept 2020)
       
-In doing so, the US has been signaling to the global forex markets that when it comes to contract settlements and international trade, it is on par with EU and that the world ought to treat the UK the way it treats Canada (basicaly ignore UK like Canada). The Brexit trainwreck and LIBOR lending rates manipulations did delegitimise the influence of London in global markets. However, I would say that the unwealdy ogre called UK is definitely more capable in supporting the British Pound than Canada can support the Canadian Dollar. I would also posit that comparison of US standards with that of EU is tough but in general EU standards and their implementation are still better than that of US and especially Canada when it comes to: 
+In doing so, the US has been signaling to the global forex markets that: 
+  - when it comes to contract settlements and international trade, the US is superior to EU 
+  - the world ought to treat the UK the way it treats Canada - basicaly ignore UK like Canada 
+  
+The Brexit trainwreck and [LIBOR scandal](https://en.wikipedia.org/wiki/Libor_scandal) of manipulating lending rates did delegitimise the influence of London in global markets. However, I would say that the unwealdy ogre called UK is definitely more capable in supporting the British Pound than Canada can support the Canadian Dollar. I would also posit that comparison of US standards and compliance with that of EU is tough. However, in general, EU standards and their implementation are still better than that of US and especially better than Canada when it comes to: 
   - quality of life, 
   - per capita income, 
   - ecological development, 
   - public infrastructure modernization, 
-  - handling of human rights particularly for refugees,
-  - privacy and security and 
-  - financial management. 
+  - handling of human rights issues particularly for refugees,
+  - justice against corruption in civil services,
+  - people's privacy and security and 
+  - overall financial management. 
     
-So what's the point of signaling to the global markets that US currency and underlying norms are more worthwhile than that of any other country? And why do so even after US manaically thrashed its FDA, EPA and intelligence agencies in Q4 2017 after sounding the war bugle against Russia and China? This signal is merely to prevent local US citizens and residents from getting demoralized during the current "trade wars." 
+So what's the point of signaling to the global markets that US currency and underlying norms are more worthwhile than that of any other country? And why do so even after US manaically thrashed its FDA, EPA and intelligence agencies in Q4 2017 after sounding the war bugle against Russia and China? This signal is merely to prevent local US citizens and residents from getting demoralized during the current recession of 2020 coupled with "trade wars." 
+
+Here is a truly worthwhile explainer from early Q1 2020 about the current recession and how long-term bond investors have been lying to themselevs and the world at large: https://seekingalpha.com/article/4317724-what-yield-curve-is-actually-telling-investors
 
 In addition to bashing their key federal agencies US has been bleeding profusely because of The Boeing Company. Boeing's 737 fleet had been grounded across the world for faulty software and Boeing was under investigation for knowingly hiding facts about problems with its manufacturing and maintainance of 737s. 
 
